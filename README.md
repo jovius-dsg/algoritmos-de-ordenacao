@@ -1,5 +1,5 @@
 # Algoritmos de Ordenação
-Trabalho Final de Projeto e Análise de Algoritmos - BCC - UESPI - Bloco = VI
+Trabalho Final de Projeto e Análise de Algoritmos - BCC/UESPI: Bloco VI
 
 ## 🖥️ Algoritmos:
 - Bubble Sort
